@@ -1,0 +1,4 @@
+firstname: Elena,
+lastname: Shevliuga,
+pets: 2cats,
+birds: 2parrots
