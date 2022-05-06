@@ -1,0 +1,4 @@
+fav_film: Soul,
+fav_series: Doctor_House,
+fav_meal: pizza,
+country: Spain

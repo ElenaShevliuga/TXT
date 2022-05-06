@@ -1,0 +1,5 @@
+skill1: Git,
+skill2: Postman,
+skill3: JS,
+skill4: SQL,
+skill5: Dev_Tools
